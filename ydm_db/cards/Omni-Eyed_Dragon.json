@@ -1,0 +1,22 @@
+{
+  "id": 32151182168,
+  "name": "Testing for Omni-Eyed Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The originator of all eyed dragons",
+  "images": [
+    "https://drive.google.com/file/d/1UboyNPO64ZcVmV2taP_H1ZaQpQhBTioU/view?usp=drive_link"
+  ],
+  "type": "Monster",
+  "attribute": "DIVINE",
+  "atk": 5000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 12,
+  "is_tuner": false,
+
+}
